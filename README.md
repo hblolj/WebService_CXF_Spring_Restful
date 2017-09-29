@@ -1,0 +1,2 @@
+# WebService_CXF_Spring_Restful
+WebService使用cxf集成spring,使用restful风格与普通soap的简单demo
