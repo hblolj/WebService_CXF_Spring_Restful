@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebService_CXF_Spring_Restful:war">
+    <output-path>$PROJECT_DIR$/../WebService_CXF_Spring_Restful/target</output-path>
+    <root id="archive" name="WebService_CXF_Spring_Restful.war">
+      <element id="artifact" artifact-name="WebService_CXF_Spring_Restful:war exploded" />
+    </root>
+  </artifact>
+</component>
